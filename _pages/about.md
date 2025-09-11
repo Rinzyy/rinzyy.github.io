@@ -1,13 +1,13 @@
 # 👋 Hello, I’m Rindy Tuy  
 [📄 View My Resume](https://rinzyy.github.io/files/Rindy_Tuy-Resume-pdf.pdf)
 
----
+
 
 ## 🚀 Who I Am
 
 I’m a Computer Science student and technician based in Houston, Texas, with a strong foundation in system support, hardware/software troubleshooting, and a deep curiosity about the future of intelligence. I thrive on solving technical problems, learning emerging technologies, and contributing to meaningful projects that intersect with systems, AI, and automation.
 
----
+
 
 ## 🛠 Technical Skills & Experience
 
@@ -17,7 +17,7 @@ I’m a Computer Science student and technician based in Houston, Texas, with a 
 - Leadership & Collaboration: leading teams, coordinating tasks, communicating technical issues clearly  
 - Process & Documentation: performance tracking, logging, reporting, quality control  
 
----
+
 
 ## 🧠 My Goals & Vision
 
@@ -29,7 +29,7 @@ Here’s how I see myself engaging with the field, and where I want to grow:
 - Contribute to open source or research efforts around AI safety, transparent design, ethical frameworks  
 - Use my grounding in systems and hardware to bridge the gap between AI theory and deployment-reliable infrastructure  
 
----
+
 
 ## 🌱 Outside of Code
 
