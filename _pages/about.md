@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Rindy personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 # 👋 Hello, I’m Rindy Tuy  
 [📄 View My Resume](https://rinzyy.github.io/files/Rindy_Tuy-Resume-pdf.pdf)
 
