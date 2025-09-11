@@ -25,9 +25,7 @@ Here’s how I see myself engaging with the field, and where I want to grow:
 
 - Deepen my skills in AI/ML (especially LLMs, multimodal models) — building projects, exploring how they learn, generalize, and fail  
 - Experiment with small systems or agents that combine domain-knowledge with learning components (hybrid systems)  
-- Keep up with AGI benchmarks and research — what metrics people use, what breakthroughs are coming, what limitations remain  
-- Contribute to open source or research efforts around AI safety, transparent design, ethical frameworks  
-- Use my grounding in systems and hardware to bridge the gap between AI theory and deployment-reliable infrastructure  
+- Keep up with AGI — what metrics people use, what breakthroughs are coming, what limitations remain  
 
 
 
