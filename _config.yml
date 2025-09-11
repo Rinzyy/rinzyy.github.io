@@ -23,7 +23,7 @@ repository               : "rinzyy/rinzyy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Rindy Tuy"
   pronouns         : # example: "she/her"  
   bio              : "Pursuing AI and Software Engineering"
